@@ -45,7 +45,7 @@ spec:
         - name: S3_SECRET_ACCESS_KEY
           value: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
         - name: DB_HOST_NAME
-          value: "10.110.96.3"
+          value: "XXXXXXXXXXXXXXX"
         - name: DB_USER
           value: "app"
         - name: DB_PASSWORD
